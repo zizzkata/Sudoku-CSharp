@@ -1,4 +1,4 @@
-# Sudoku-C
+# Sudoku-CSharp
 Project showcasing how a recursive function can solve Sudoku and how this can be optimized by searching for a solution in parallel!
 
 Done by me!
